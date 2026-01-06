@@ -1,0 +1,8 @@
+-101, https://google.com, Google, 21/10/2025 10:42 
+*501, https://maps.google.com, Maps 
+*502, https://mail.google.com, Gmail 
+#yes, 12, 25/10/2025 09:10
+-102, https://youtube.com, YouTube, 21/10/2025 10:47 
+*601, https://youtube.com/@NVIDIA, NVIDIA Channel 
+#no, 3, 22/10/2025 18:05 
+#yes, 5, 28/10/2025 21:33 
